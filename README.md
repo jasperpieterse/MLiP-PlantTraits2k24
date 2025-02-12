@@ -16,7 +16,7 @@ Each notebook details the **data preprocessing, model training, and inference pr
 
 ## Installation  
 
-These notebooks are designed to run in the **Kaggle environment** dedicated to this competition.  
+These notebooks are designed to run in the **Kaggle environment** dedicated to this competition. To run the notebooks, follow these steps:
 
 1. **Download the competition data** from the [Kaggle page](https://www.kaggle.com/competitions/planttraits2024).  
 2. **Upload the notebooks** to the Kaggle environment.  
