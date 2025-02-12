@@ -1,6 +1,8 @@
 # PlantTraits2024
 
-This repository contains the code for the **PlantTraits2024 Kaggle Competition**, where we developed deep learning models to classify six essential plant traits using **crowdsourced images** and **structured plant data**. This competition was part of the course Machine Learning in Practice (NWI-IMC030), where we worked in teams of three to compete. More details about the competition can be found on the [Kaggle competition page](https://www.kaggle.com/competitions/planttraits2024).  
+This repository contains the code for the **PlantTraits2024 Kaggle Competition**, where we developed deep learning models to classify six essential plant traits using **crowdsourced images** and **structured plant data**. 
+
+This competition was part of the course Machine Learning in Practice (NWI-IMC030), where we worked in teams of three to compete. More details about the competition can be found on the [Kaggle competition page](https://www.kaggle.com/competitions/planttraits2024).  
 
 ## Models  
 
